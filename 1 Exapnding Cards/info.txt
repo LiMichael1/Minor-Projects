@@ -1,0 +1,3 @@
+flexbox -> align everything
+javascript -> respond to clicks => event listeners
+css transition -> expands the box => smooth transition

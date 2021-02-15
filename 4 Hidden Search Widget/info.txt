@@ -1,0 +1,3 @@
+Hidden Search Widget
+
+-> Show Search Bar after focusing/clicking
