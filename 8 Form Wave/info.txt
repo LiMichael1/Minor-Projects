@@ -1,0 +1,11 @@
+Login Form with Wave Effect on the Labels
+-> Cool Animation
+
+-> wrap span on label
+-> add transition
+-> label moves on input
+-> dynamic transiiton effect for wave effect 
+
+-> Javascript wraps each letter in span 
+-> add transition to the span 
+-> transition delay that increments with each letter

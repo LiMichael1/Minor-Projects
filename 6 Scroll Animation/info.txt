@@ -1,0 +1,3 @@
+Scrolling Animation
+cs -> transition -> smooth animation 
+js -> trigger points for transition

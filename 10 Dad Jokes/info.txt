@@ -1,0 +1,8 @@
+Random Dad Joke Application
+-> click button to get new Joke
+-> Joke comes from third party API 
+-> HTTP Request and Response
+-> HTML & CSS -> Interface
+-> JS -> get joke
+
+- use Fetch API

@@ -1,0 +1,3 @@
+Navbar 
+-> Disappears on click
+-> Toggle active class

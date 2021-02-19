@@ -1,0 +1,5 @@
+Frequently Asked Questions 
+
+CSS -> position comment icon  
+JS -> close and open FAQ tabs to see answer
+-> toggles the active class

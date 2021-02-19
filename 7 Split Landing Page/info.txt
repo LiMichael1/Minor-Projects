@@ -1,0 +1,7 @@
+Split Landing Page 
+  Hover on one side 
+  -> stretches out that side
+  -> shrinks the other side 
+
+CSS -> Heavy
+JS -> Used for hover effects

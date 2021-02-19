@@ -1,0 +1,7 @@
+Numbers increment from 0 into the actual Numbers
+-> see the changing of numbers at a fast pace
+
+Increment Counter
+
+CSS -> Responsive
+JS -> increment

@@ -1,0 +1,6 @@
+Sound Board
+-> different sound effect with each button
+-> plays sound upon clicking button
+
+-> Javascript generates button based on each sound
+-> audio tag always present on the page 

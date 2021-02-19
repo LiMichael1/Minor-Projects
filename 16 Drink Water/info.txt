@@ -1,0 +1,5 @@
+Highlights the water in a cup 
+-> based on button clicking
+
+CSS -> styling and creating the Highlights
+JS -> trigger the highlighting via clicking
